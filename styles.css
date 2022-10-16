@@ -1,0 +1,35 @@
+.h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.ul {
+    list-style-type: none;
+}
+
+.body {
+    padding: 2em auto;
+    margin: 2em;
+}
+
+.table {
+    float: right;;
+    border: 1px solid gray;
+    padding: 1em;
+    margin: auto;
+}
+
+.table-box {
+    padding: 1em;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.img {
+    padding: 1em;
+}
+
+.t-size {
+    font-size: medium large;
+}

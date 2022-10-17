@@ -15,7 +15,7 @@
     float: right;;
     border: 1px solid gray;
     padding: 1em;
-    margin: auto;
+    margin: 1em;
 }
 
 .table-box {
@@ -32,4 +32,12 @@
 
 .t-size {
     font-size: medium large;
+}
+
+.img-left {
+    float: left;
+}
+
+.vid-right {
+    float: right;
 }
